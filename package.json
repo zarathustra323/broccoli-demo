@@ -1,0 +1,11 @@
+{
+  "name": "broccoli-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jacob Bare <jacob@limit0.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "broccoli": "^2.0.0",
+    "broccoli-cli": "^1.0.0"
+  }
+}
