@@ -12,6 +12,7 @@
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
     "broccoli": "^2.0.0",
+    "broccoli-babel-transpiler": "^7.0.0",
     "broccoli-cli": "^1.0.0",
     "broccoli-funnel": "^2.0.1",
     "broccoli-merge-trees": "^3.0.1",
