@@ -11,6 +11,7 @@
   "devDependencies": {
     "broccoli": "^2.0.0",
     "broccoli-cli": "^1.0.0",
-    "broccoli-funnel": "^2.0.1"
+    "broccoli-funnel": "^2.0.1",
+    "broccoli-merge-trees": "^3.0.1"
   }
 }
