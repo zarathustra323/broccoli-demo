@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Jacob Bare <jacob@limit0.io>",
   "license": "MIT",
+  "scripts": {
+    "build": "broccoli build --overwrite",
+    "serve": "broccoli serve"
+  },
   "devDependencies": {
     "broccoli": "^2.0.0",
     "broccoli-cli": "^1.0.0"
